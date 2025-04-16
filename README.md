@@ -4,6 +4,8 @@ YOU ARE THE MCP SERVER!
 
 ![architecture of humanmcp](./images/mcp_arch.png)
 
+(Of course, this is a joke project :sweat_smile: )
+
 # Setup
 
 - 1. Download server binary from [Releases](https://github.com/Syuparn/humanmcp/releases)
