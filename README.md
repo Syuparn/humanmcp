@@ -6,11 +6,7 @@ YOU ARE THE MCP SERVER!
 
 # Setup
 
-- 1. build the server
-
-```bash
-go build
-```
+- 1. Download server binary from [Releases](https://github.com/Syuparn/humanmcp/releases)
 
 - 2. add the server to the settings of MCP host
 
